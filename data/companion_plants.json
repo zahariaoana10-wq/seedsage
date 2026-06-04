@@ -1,0 +1,316 @@
+{
+  "tomato": {
+    "companions": [
+      {
+        "plant": "marigold",
+        "reason": "Deters whitefly and aphids via scent."
+      },
+      {
+        "plant": "basil",
+        "reason": "Thought to improve flavor and deter greenhouse flies."
+      }
+    ],
+    "avoid": [
+      {
+        "plant": "fennel",
+        "reason": "Allelopathic; releases chemicals that inhibit growth."
+      }
+    ]
+  },
+  "marigold": {
+    "companions": [
+      {
+        "plant": "tomato",
+        "reason": "Deters whitefly and aphids via scent."
+      },
+      {
+        "plant": "pepper",
+        "reason": "Deters aphids and root-knot nematodes via root secretions."
+      }
+    ],
+    "avoid": []
+  },
+  "bean": {
+    "companions": [],
+    "avoid": [
+      {
+        "plant": "onion",
+        "reason": "Inhibits nitrogen-fixing bacteria in bean roots."
+      }
+    ]
+  },
+  "onion": {
+    "companions": [
+      {
+        "plant": "carrot",
+        "reason": "Scent confusion prevents carrot fly infestation."
+      }
+    ],
+    "avoid": [
+      {
+        "plant": "bean",
+        "reason": "Inhibits nitrogen-fixing bacteria in bean roots."
+      }
+    ]
+  },
+  "fennel": {
+    "companions": [],
+    "avoid": [
+      {
+        "plant": "tomato",
+        "reason": "Allelopathic; releases chemicals that inhibit growth."
+      }
+    ]
+  },
+  "potato": {
+    "companions": [],
+    "avoid": [
+      {
+        "plant": "raspberry",
+        "reason": "Shared susceptibility to certain blights and diseases."
+      }
+    ]
+  },
+  "raspberry": {
+    "companions": [],
+    "avoid": [
+      {
+        "plant": "potato",
+        "reason": "Shared susceptibility to certain blights and diseases."
+      }
+    ]
+  },
+  "cucumber": {
+    "companions": [],
+    "avoid": [
+      {
+        "plant": "sage",
+        "reason": "Strong aromatic herbs can stunt cucumber growth."
+      }
+    ]
+  },
+  "sage": {
+    "companions": [
+      {
+        "plant": "brassica",
+        "reason": "Masks crop scent from Cabbage White butterflies."
+      }
+    ],
+    "avoid": [
+      {
+        "plant": "cucumber",
+        "reason": "Strong aromatic herbs can stunt cucumber growth."
+      }
+    ]
+  },
+  "lettuce": {
+    "companions": [
+      {
+        "plant": "sunflower",
+        "reason": "Provides vital shade to prevent bolting in summer."
+      }
+    ],
+    "avoid": []
+  },
+  "sunflower": {
+    "companions": [
+      {
+        "plant": "lettuce",
+        "reason": "Provides vital shade to prevent bolting in summer."
+      }
+    ],
+    "avoid": []
+  },
+  "radish": {
+    "companions": [
+      {
+        "plant": "carrot",
+        "reason": "Fast-growing radish breaks soil for slower carrots."
+      }
+    ],
+    "avoid": []
+  },
+  "carrot": {
+    "companions": [
+      {
+        "plant": "radish",
+        "reason": "Fast-growing radish breaks soil for slower carrots."
+      },
+      {
+        "plant": "onion",
+        "reason": "Scent confusion prevents carrot fly infestation."
+      },
+      {
+        "plant": "dill",
+        "reason": "Attracts hoverflies which consume carrot aphids."
+      }
+    ],
+    "avoid": []
+  },
+  "pepper": {
+    "companions": [
+      {
+        "plant": "marigold",
+        "reason": "Deters aphids and root-knot nematodes via root secretions."
+      }
+    ],
+    "avoid": []
+  },
+  "veg garden": {
+    "companions": [
+      {
+        "plant": "calendula",
+        "reason": "Attracts hoverflies whose larvae consume aphids."
+      }
+    ],
+    "avoid": []
+  },
+  "calendula": {
+    "companions": [
+      {
+        "plant": "veg garden",
+        "reason": "Attracts hoverflies whose larvae consume aphids."
+      }
+    ],
+    "avoid": []
+  },
+  "squash": {
+    "companions": [
+      {
+        "plant": "nasturtium",
+        "reason": "Deters squash bugs and acts as a sacrificial trap crop."
+      }
+    ],
+    "avoid": []
+  },
+  "nasturtium": {
+    "companions": [
+      {
+        "plant": "squash",
+        "reason": "Deters squash bugs and acts as a sacrificial trap crop."
+      }
+    ],
+    "avoid": []
+  },
+  "peas": {
+    "companions": [
+      {
+        "plant": "mint",
+        "reason": "Improves general health and perceived sweetness of crop."
+      }
+    ],
+    "avoid": []
+  },
+  "mint": {
+    "companions": [
+      {
+        "plant": "peas",
+        "reason": "Improves general health and perceived sweetness of crop."
+      },
+      {
+        "plant": "brassica",
+        "reason": "Strong scent confuses flea beetles and butterflies."
+      }
+    ],
+    "avoid": []
+  },
+  "brassica": {
+    "companions": [
+      {
+        "plant": "sage",
+        "reason": "Masks crop scent from Cabbage White butterflies."
+      },
+      {
+        "plant": "mint",
+        "reason": "Strong scent confuses flea beetles and butterflies."
+      }
+    ],
+    "avoid": []
+  },
+  "strawberry": {
+    "companions": [
+      {
+        "plant": "borage",
+        "reason": "Attracts bees for pollination and improves flavor."
+      }
+    ],
+    "avoid": [
+      {
+        "plant": "cabbage",
+        "reason": "Strawberries can stunt the growth of brassica family."
+      }
+    ]
+  },
+  "cabbage": {
+    "companions": [],
+    "avoid": [
+      {
+        "plant": "strawberry",
+        "reason": "Strawberries can stunt the growth of brassica family."
+      }
+    ]
+  },
+  "runner bean": {
+    "companions": [
+      {
+        "plant": "sweet pea",
+        "reason": "Attracts pollinators to improve bean yield."
+      }
+    ],
+    "avoid": []
+  },
+  "sweet pea": {
+    "companions": [
+      {
+        "plant": "runner bean",
+        "reason": "Attracts pollinators to improve bean yield."
+      }
+    ],
+    "avoid": []
+  },
+  "basil": {
+    "companions": [
+      {
+        "plant": "tomato",
+        "reason": "Thought to improve flavor and deter greenhouse flies."
+      }
+    ],
+    "avoid": []
+  },
+  "rose": {
+    "companions": [
+      {
+        "plant": "garlic",
+        "reason": "Strong scent deters aphids and blackfly."
+      }
+    ],
+    "avoid": []
+  },
+  "garlic": {
+    "companions": [
+      {
+        "plant": "rose",
+        "reason": "Strong scent deters aphids and blackfly."
+      }
+    ],
+    "avoid": []
+  },
+  "borage": {
+    "companions": [
+      {
+        "plant": "strawberry",
+        "reason": "Attracts bees for pollination and improves flavor."
+      }
+    ],
+    "avoid": []
+  },
+  "dill": {
+    "companions": [
+      {
+        "plant": "carrot",
+        "reason": "Attracts hoverflies which consume carrot aphids."
+      }
+    ],
+    "avoid": []
+  }
+}

@@ -1,0 +1,21 @@
+Plant_A,Plant_B,Relationship,Reason
+Tomato,Marigold,Companion,Deters whitefly and aphids via scent.
+Bean,Onion,Enemy,Inhibits nitrogen-fixing bacteria in bean roots.
+Tomato,Fennel,Enemy,Allelopathic; releases chemicals that inhibit growth.
+Potato,Raspberry,Enemy,Shared susceptibility to certain blights and diseases.
+Cucumber,Sage,Enemy,Strong aromatic herbs can stunt cucumber growth.
+Lettuce,Sunflower,Companion,Provides vital shade to prevent bolting in summer.
+Radish,Carrot,Companion,Fast-growing radish breaks soil for slower carrots.
+Pepper,Marigold,Companion,Deters aphids and root-knot nematodes via root secretions.
+Veg Garden,Calendula,Companion,Attracts hoverflies whose larvae consume aphids.
+Squash,Nasturtium,Companion,Deters squash bugs and acts as a sacrificial trap crop.
+Peas,Mint,Companion,Improves general health and perceived sweetness of crop.
+Brassica,Sage,Companion,Masks crop scent from Cabbage White butterflies.
+Strawberry,Cabbage,Enemy,Strawberries can stunt the growth of brassica family.
+Runner Bean,Sweet Pea,Companion,Attracts pollinators to improve bean yield.
+Tomato,Basil,Companion,Thought to improve flavor and deter greenhouse flies.
+Rose,Garlic,Companion,Strong scent deters aphids and blackfly.
+Carrot,Onion,Companion,Scent confusion prevents carrot fly infestation.
+Mint,Brassica,Companion,Strong scent confuses flea beetles and butterflies.
+Borage,Strawberry,Companion,Attracts bees for pollination and improves flavor.
+Dill,Carrot,Companion,Attracts hoverflies which consume carrot aphids.

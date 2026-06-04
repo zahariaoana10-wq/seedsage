@@ -1,0 +1,45 @@
+{
+  "1516631de61b0b91f9a575ea8c27fdae": {
+    "companions": [
+      {
+        "plant": "basil",
+        "reason": "enhances flavor of parsley",
+        "benefit": "growth"
+      },
+      {
+        "plant": "chives",
+        "reason": "repels pests that affect parsley",
+        "benefit": "pest_control"
+      },
+      {
+        "plant": "coriander",
+        "reason": "attracts beneficial insects",
+        "benefit": "pollination"
+      },
+      {
+        "plant": "tomato",
+        "reason": "benefits from the nutrients in the soil",
+        "benefit": "soil"
+      },
+      {
+        "plant": "carrot",
+        "reason": "mutual benefits without competition for space",
+        "benefit": "space"
+      }
+    ],
+    "avoid": [
+      {
+        "plant": "sage",
+        "reason": "can inhibit the growth of parsley"
+      },
+      {
+        "plant": "fennel",
+        "reason": "allelopathic properties that can harm parsley"
+      },
+      {
+        "plant": "mugwort",
+        "reason": "can negatively affect parsley growth"
+      }
+    ]
+  }
+}
